@@ -12,19 +12,20 @@
   <h2>Getting Started</h2>
     <p>**Prerequisites:**</p>
     <ul>
-        <li>A code editor (e.g., Visual Studio Code, Sublime Text)</li>
-        <li>Basic knowledge of HTML, CSS, and JavaScript (optional, but helpful)</li>
+        <li>Android Studio.</li>
+        <li>Basic knowledge of Kotlin(optional: Java)</li>
     </ul>
 
   <h3>Installation</h3>
     <pre>
-   1. Clone this repository: git clone https://github.com/your-username/make-me-fit.git
+   0. Download the apk file which given here.     
+   1. Clone this repository: git clone https://github.com/Haresh79/Make-me-fit.git
    2. Navigate to the project directory: cd make-me-fit
   </pre>
 
   <h3>Running the App</h3>
     <pre>
-        1. Open the `index.html` file in your web browser.
+        1. Open the the app on your android phone.
         2. The app will display your daily step count, estimated calorie burn, and access to the yoga and workout sections.
         **Note:** This is a basic example. You may need to set up additional dependencies or configurations for full functionality.
     </pre>
