@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uithemes">#D9FF43</color>
+    <color name="mainthemes">#121212</color>
+    <color name="graytheme">#f1f1f1</color>
+    <color name="graytext">#818284</color>
+</resources>
